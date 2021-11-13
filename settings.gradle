@@ -1,2 +1,2 @@
-rootProject.name='MergeAdapterSample'
+rootProject.name='ConcatAdapterSample'
 include ':app'
